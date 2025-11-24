@@ -86,9 +86,8 @@ Portfolio: `https://leon-stadler.com`
 Scale Up: `https://scale-up.dev`
 Email: `contact@leon-stadler.com`
 
-Fun fact: I can go from espresso machine to GSAP timeline in under a minute.
+Fun fact: I’m equally happy tuning a type scale, refactoring a React component, or dialing in the perfect espresso.
 
 ---
 
 If you’re building something ambitious and want a partner who can think, design, and ship — let’s talk.
-```
