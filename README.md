@@ -45,9 +45,8 @@ My interests center on human‑centered digital products, open‑source culture,
 - End‑to‑end workflows for photo, video, motion, and print
 
 ### Web Design / Platforms
-- WordPress (preferred), Webflow, Framer, Wix
+- WordPress (preferred), Webflow, Framer, sometimes Wix
 - Strong orientation toward **open‑source stacks** and maintainable long‑term builds
-- Contributor/translator in community projects whenever possible
 
 ### Frontend
 - React / Next.js / TypeScript
@@ -73,6 +72,7 @@ You’ll usually find me doing **calisthenics, bouldering/climbing, or windsurfi
 
 ## Open to
 - Website projects and digital products
+- Project Managment and Creative solutions
 - UX/UI, branding, and corporate design
 - Photo/video, motion, and interactive media work
 - Collaboration with agencies, product teams, and founders
@@ -82,11 +82,9 @@ If a project benefits from **design and development as one integrated craft**, I
 ---
 
 ## Find me
-Portfolio: `https://leon-stadler.com`
-Scale Up: `https://scale-up.dev`
-Email: `contact@leon-stadler.com`
-
-Fun fact: I’m equally happy tuning a type scale, refactoring a React component, or dialing in the perfect espresso.
+WEesite/Portfolio: `https://leon-stadler.com`<br>
+Scale Up: `https://scale-up.dev`<br>
+E-Mail: `contact@leon-stadler.com`<br>
 
 ---
 
