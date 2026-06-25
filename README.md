@@ -1,91 +1,25 @@
-# Hi, I'm Leon Stadler 👋
-### Communication & Multimedia Designer • Digital Experience Design • AI‑Supported Automation
+# Hi, I’m Leon Stadler
 
-I’m a multidisciplinary **communication and multimedia designer** working with a strong focus on **digital design, design thinking, and AI‑supported solutions**. I grew up in Munich and am now based in Lindau am Bodensee, operating at the intersection of **design, technology, and organizational practice**. My aim is to translate complex contexts into coherent brands, usable products, and digital experiences that are functional, accessible, and culturally meaningful.
+I’m a multidisciplinary designer, creative technologist and UX/UI developer working at the intersection of design, technology and digital communication.
 
-After completing a B.A. and M.A. in Arts & Design (Intermedia) at FH Vorarlberg, I developed a practice that deliberately moves across media and levels of abstraction — from research and conceptual framing to system design, high‑fidelity execution, and implementation. I value solutions that are intuitive in use, formally precise, and resilient in real‑world conditions.
+My background is rooted in InterMedia, communication design, web design and research-driven digital product development. I approach software from a design perspective: not only as code, but as structure, interaction, visual clarity and meaningful user experience.
 
-My interests center on human‑centered digital products, open‑source culture, AI‑driven automation, and web experiences that combine clarity with narrative strength. Currently, I’m deepening my understanding of agent/RAG architectures, scalable SaaS patterns, and motion‑based interface design.
+I hold a BA and MA in InterMedia from FH Vorarlberg. My master’s thesis, *Designing Digital Identities in the Context of Web3*, explored decentralized identity systems, self-sovereign identity, Soulbound Tokens and the design of trustworthy digital interfaces. Part of this work is publicly available on GitHub as a technical prototype.
 
----
+Professionally, I work in project management and communication design at fairkom, where I contribute to open-source-oriented digital environments, web projects and automation-related processes. I am also developing Scale Up as a startup in development, focused on workflow automation, AI-assisted tools and digital product systems.
 
-## Areas of practice
+Alongside my work in digital products, I have a long-standing connection to Greifbar. My bachelor’s thesis focused on corporate design and web design in the context of bouldering, which developed into practical brand, web, print and digital design work for the bouldering gym. Today, my role there also includes team leadership, organization and operational coordination.
 
-### Design & Creative Direction
-- Creative experience design and management
-- Human‑centered design, UX/UI
-- Branding, corporate design, art direction
-- Communication design across **digital, analog, and print** media
-- Photography, film, motion design, and interactive media
-- Concept development for games and immersive experiences
+## What I work with
 
-### Web & Product Frontend
-- Web design from strategy to launch (especially WordPress and open stacks)
-- Design systems, component logic, and token‑based styling
-- Interactive, motion‑driven interfaces
-- Frontend implementation with React / Next.js / TypeScript
+- UX/UI design and interface systems
+- Web design and frontend development
+- Digital product concepts and prototypes
+- Communication design and visual identities
+- Workflow automation and AI-assisted tools
+- Open-source-oriented web environments
+- Digital identity, Web3 and self-sovereign identity research
 
----
+## Perspective
 
-## Current focus / projects
-- **Scale Up** — an AI and automation company I’m co‑founding with **Maik Bierman**. We develop tailored automations and bots/agents, and provide consulting and training.
-- **Scale Hub** — our modular SaaS platform within Scale Up (CRM, support, documents, agent/bot automation).
-- **Chat Up** — a Scale Hub product/feature: a RAG‑powered website chat that turns organizational knowledge into useful conversations.
-- **Greifbar Bregenz** — Team Lead for Marketing & Digital Design, plus designer/web designer and hands‑on all‑rounder in the day‑to‑day life of the gym.
-- **Web design & corporate projects** — ongoing client work on websites, identities, campaigns, and communication systems.
-
----
-
-## Toolset
-
-### Design & Media
-- Adobe Creative Suite, Affinity
-- Figma / Sketch
-- Final Cut
-- End‑to‑end workflows for photo, video, motion, and print
-
-### Web Design / Platforms
-- WordPress (preferred), Webflow, Framer, sometimes Wix
-- Strong orientation toward **open‑source stacks** and maintainable long‑term builds
-
-### Frontend
-- React / Next.js / TypeScript
-- Tailwind, GSAP, Framer Motion
-- Systematic UI, design tokens, reusable components
-
-### Backend / Data (when needed)
-- PostgreSQL and relational data modeling
-- Foundations of RAG and vector search
-- API design and automation orchestration
-
----
-
-## Working approach
-I begin with people, context, and constraints, and only then move into form‑giving. By clarifying the underlying problem first, I can translate insights into a consistent design language: systems and relationships before surface decisions. I prototype early to test direction, interaction, and tone, then iterate quickly while refining details with care. Each visual and technical choice should have a clear purpose — guiding attention, reducing friction, or strengthening the narrative of a product or brand. Because I also implement frontends (and occasionally the data layer), I can carry concepts into production without losing intent. Open source is important to me as a counterbalance to big‑tech consolidation, so I try to build in ways that can be shared, reused, and contributed back to the wider ecosystem.
-
----
-
-## Outside of work
-You’ll usually find me doing **calisthenics, bouldering/climbing, or windsurfing**. Sport keeps me grounded and informs how I think about dynamics, flow, and collaboration — qualities I also look for in digital experiences.
-
----
-
-## Open to
-- Website projects and digital products
-- Project Managment and Creative solutions
-- UX/UI, branding, and corporate design
-- Photo/video, motion, and interactive media work
-- Collaboration with agencies, product teams, and founders
-
-If a project benefits from **design and development as one integrated craft**, I’m interested.
-
----
-
-## Find me
-WEesite/Portfolio: `https://leon-stadler.com`<br>
-Scale Up: `https://scale-up.dev`<br>
-E-Mail: `contact@leon-stadler.com`<br>
-
----
-
-If you’re building something ambitious and want a partner who can think, design, and ship — let’s talk.
+I see design and development as connected disciplines. My work focuses on making complex systems more understandable, usable and visually coherent — whether through interfaces, digital workflows, prototypes, brand systems or automation tools.
